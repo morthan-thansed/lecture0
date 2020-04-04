@@ -1,1 +1,3 @@
 pushing and pulling exercise:
+
+changed locally in pc... want to effect the cloud file...
