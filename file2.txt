@@ -1,3 +1,3 @@
 pushing and pulling exercise:
 
-changed locally in pc... want to effect the cloud file...
+edit at cloud. in case of conflct, this should be saved.
